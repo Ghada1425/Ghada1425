@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
+<title id="title">Ghada Alaidi — software, AI and design portfolio</title>
+<desc id="desc">Minimal editorial beige and olive banner for a GitHub profile.</desc>
+<rect width="1200" height="330" fill="#EEE9DF"/>
+<rect x="0" y="0" width="17" height="330" fill="#626B58"/>
+<path d="M46 48 H1154" stroke="#BAAE9A" stroke-width="1"/>
+<text x="74" y="82" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="4" fill="#65705E">GHADA ALAIDI</text>
+<text x="74" y="197" font-family="Georgia, Times New Roman, serif" font-weight="normal" font-size="91" letter-spacing="-3" fill="#27372E">Selected work.</text>
+<path d="M74 217 H743" stroke="#B8AE9C" stroke-width="1"/>
+<text x="74" y="255" font-family="Arial, Helvetica, sans-serif" font-size="19" letter-spacing="1" fill="#536153">SOFTWARE DEVELOPMENT  /  AI ENGINEERING  /  DATA &amp; DESIGN</text>
+<text x="74" y="293" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="3" fill="#A28E77">A CURATED DEVELOPER PORTFOLIO</text>
+<circle cx="1010" cy="158" r="114" fill="none" stroke="#B4B9A8" stroke-width="1.5"/>
+<circle cx="1010" cy="158" r="83" fill="#D7D9CC"/>
+<path d="M946 175 L983 138 L1004 158 L1051 111" fill="none" stroke="#69755F" stroke-width="2.2" stroke-linecap="round"/>
+<path d="M959 224 L999 192 L1033 209 L1074 160" fill="none" stroke="#9B987E" stroke-width="1.5" stroke-linecap="round"/>
+<circle cx="946" cy="175" r="5.5" fill="#69755F"/>
+<circle cx="983" cy="138" r="5.5" fill="#69755F"/>
+<circle cx="1004" cy="158" r="5.5" fill="#69755F"/>
+<circle cx="1051" cy="111" r="5.5" fill="#69755F"/>
+<circle cx="959" cy="224" r="4" fill="#AD997C"/>
+<circle cx="999" cy="192" r="4" fill="#AD997C"/>
+<circle cx="1033" cy="209" r="4" fill="#AD997C"/>
+<circle cx="1074" cy="160" r="4" fill="#AD997C"/>
+<path d="M796 73 H829 M812.5 56.5 V89.5 M1106 270 H1136" stroke="#A79B85" stroke-width="1"/>
+<path d="M46 317 H1154" stroke="#BAAE9A" stroke-width="1"/>
+</svg>
