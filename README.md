@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="ghada-header.svg" alt="Ghada Alaidi — selected work in software development, AI engineering, data and design" width="100%" />
-
+<img src="header.png" alt="Ghada Alaidi — Portfolio" width="100%" />
 <br />
 
 *Building purposeful digital experiences through software, AI, and design.*
