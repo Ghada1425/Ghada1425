@@ -19,7 +19,7 @@ A selection of projects bringing together product thinking, software engineering
   <tr>
     <td width="33%" valign="top">
       <sub>LEARNING &amp; GROWTH</sub>
-      <h3>GROW / نمو</h3>
+      <h3><a href="https://github.com/Ghada1425/GROW">GROW / نمو</a></h3>
       <p>A botanical-inspired platform for self-discovery, learning preferences, and personal growth.</p>
       <p><sub>Product design · Assessments · Bilingual UX</sub></p>
       <p><em>Private source · Portfolio showcase in preparation</em></p>
