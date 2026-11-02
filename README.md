@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Header.png" alt="Ghada Alaidi — Portfolio" width="100%" />
+<img src="Header.png?v=2" alt="Ghada Alaidi — Portfolio" width="100%" />
 <br />
 
 *Building purposeful digital experiences through software, AI, and design.*
